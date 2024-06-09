@@ -3,7 +3,7 @@ DAXLab is a repository dedicated to practicing and mastering DAX, the formula la
 
 
 ## Exercise 1  
-How to extract out two column which is not common in dataset?  
+How to extract out two rows which is not common in dataset?  
 - Using PQ: Use merge queries as a new -> Apply Left Anti Join
 - Using DAX: Use EXCEPT(left table, right table) function to get the required output
 
