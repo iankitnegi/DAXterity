@@ -4,6 +4,7 @@ DAXLab is a repository dedicated to practicing and mastering DAX, the formula la
 
 ## Exercise 1  
 How to extract out two column which is not common in dataset?  
-There are two ways to solve this type of question:  
 - Using PQ: Use merge queries as a new -> Apply Left Anti Join
 - Using DAX: Use EXCEPT(left table, right table) function to get the required output
+
+## Exercise 2  
