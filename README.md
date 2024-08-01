@@ -23,10 +23,10 @@ This document provides a categorized list of commonly used DAX functions in Powe
 ### Logical:
 - IF(<logical_test>, <value_if_true>, [<value_if_false>])
 - IFERROR (<_value>, <Value_If_Error> )
-- COALESCE(<expression>, <expression>…)
+- COALESCE(<_expression>, <_expression>…)
 - OR(logical1, logical2)
 - AND(logical1, logical2)
-- NOT(<logical>)
+- NOT(<_logical>)
 - SWITCH(<_expression>, <_value>, <_result>[, <_value>, <_result>]…[, <_else>])
 - TRUE()
 - FALSE()
