@@ -26,6 +26,11 @@ This document provides a categorized list of commonly used DAX functions in Powe
 - COALESCE(<expression>, <expression>…)
 - OR(logical1, logical2)
 - AND(logical1, logical2)
-- 
+- NOT(<logical>)
+- SWITCH(<expression>, <value>, <result>[, <value>, <result>]…[, <else>])
+- TRUE()
+- FALSE()
+
+### Text:
 
 
