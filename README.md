@@ -27,7 +27,7 @@ This document provides a categorized list of commonly used DAX functions in Powe
 - OR(logical1, logical2)
 - AND(logical1, logical2)
 - NOT(<logical>)
-- SWITCH(<expression>, <value>, <result>[, <value>, <result>]…[, <else>])
+- SWITCH(<_expression>, <_value>, <_result>[, <_value>, <_result>]…[, <_else>])
 - TRUE()
 - FALSE()
 
