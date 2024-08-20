@@ -31,6 +31,15 @@ This document provides a categorized list of commonly used DAX functions in Powe
 - TRUE()
 - FALSE()
 
-### Text:
+### Maths & Stats:
+- SUM(<_Column>) / SUMX(<_table>, <_expression>)
+- AVERAGE(<_Column>) / AVERAGEX(<_table>,<_expression>)
+- MAX(<_Column>) / MAXX(tablename, expression)
+- MIN(<Column>) / MINX(tablename, expression)
+- DIVIDE ( <_Numerator>, <_Denominator> [, <_AlternateResult>] )
+- COUNT(<_column>) / COUNTA(<_column>)
+- COUNTROWS(<_table>) / DISTINCTCOUNT(<_column>)
+- COUNTAX(<_table>,<_expression>)
+- RANKX ( <_Table>, <_Expression> [, <_Value>] [, <_Order>] [, <_Ties>] )
 
 
