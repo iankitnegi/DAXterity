@@ -50,7 +50,7 @@ This document provides a categorized list of commonly used DAX functions in Powe
 - MONTH(Date) : Returns the month as a number from 1 (January) to 12 (December).
 - WEEKDAY(Date, Return: 1,2,3) : Returns a number from 1 to 7 identifying the day of the week of a date.
 - WEEKNUM(Date, Return: 1,11,12,13..) : Returns the week number for the given date and year according to the return_type value.
-- FORMAT(Value, Format_string, Locale_name) :  It is a powerful tool that allows you to change the way numbers or dates are displayed visually without altering their original values. It’s particularly handy when you want to present data in a specific format for better readability.
-- 
+- FORMAT(Value, Format_string, Locale_name) :  It allows you to change the way numbers/dates are displayed visually without altering their original values. 
+- CALCULATETABLE()
 
 
