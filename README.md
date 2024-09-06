@@ -52,5 +52,9 @@ This document provides a categorized list of commonly used DAX functions in Powe
 - WEEKNUM(Date, Return: 1,11,12,13..) : Returns the week number for the given date and year according to the return_type value.
 - FORMAT(Value, Format_string, Locale_name) :  It allows you to change the way numbers/dates are displayed visually without altering their original values. 
 - CALCULATETABLE()
+- TOTALMTD()
+- TOTALQTD()
+- TOTALYTD()
+- SAMEPERIODLASTYEAR()
 
 
